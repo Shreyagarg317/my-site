@@ -20,8 +20,10 @@ h3{
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
 }
-a{
-  color: #11999E;
+.footer-link{
+  color: #E4F9F5;
+  padding: 0.3rem;
+  text-decoration: none;
 }
 .resize{
   width:80%;
